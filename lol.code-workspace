@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"name": "www",
+			"path": "\\\\wsl$\\Ubuntu-20.04\\var\\www"
+		},
+		{
+			"name": "laptrinhwebnangcao",
+			"path": "c:\\Users\\admin\\Desktop\\laptrinhwebnangcao"
+		},
+		{
+			"name": "filesualaptrinh",
+			"path": "..\\filesualaptrinh"
+		},
+		{
+			"name": "app",
+			"path": "..\\app"
+		},
+		{
+			"name": "blog",
+			"path": "..\\baihocnodejs\\blog"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\datatables"
+		},
+		{
+			"path": "..\\webnangcao2"
+		},
+		{
+			"path": "..\\reglog"
+		},
+		{
+			"path": "..\\xampp\\htdocs\\site"
+		},
+		{
+			"path": "..\\big-market"
+		},
+		{
+			"path": "..\\xampp\\htdocs\\get&post"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap"
+	}
+}
